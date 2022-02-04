@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Simple_Stock_price_Chart_app.py
